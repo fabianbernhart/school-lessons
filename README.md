@@ -1,8 +1,5 @@
-# School lessons
+# Scholar
 
-A Project to store the tasks we get from our students as a Teacher (quietly weird) 
+A View in the diffrent apranticeships of my colleges at BWV Ahaus in SUD
 
 
-## Agenda
-
-- not yet
